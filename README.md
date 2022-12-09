@@ -4,7 +4,7 @@ Desafio do módulo Docker do curso Full Cycle 3.0.
 
 ## Descrição
 
-Arquivos que compoêm o Dockerfile de uma imagem golang com um temanho menor que 2 MB.
+Arquivos que compoêm o Dockerfile de uma imagem golang com um tamanho menor que 2 MB.
 
 ## Getting Started
 ### Executando
