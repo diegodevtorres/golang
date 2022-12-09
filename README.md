@@ -24,6 +24,11 @@ docker run -p 8080:8080 diegodevtores/fullcycle
 Full Cycle Rocks!!
 ```
 
+* A imagem também já está disponível no docker hub, sendo possível acessá-la executando:
+```
+docker run diegodevtorres/fullcycle
+```
+
 ## Autor
 
 [@diegodevtorres](https://github.com/diegodevtorres)
